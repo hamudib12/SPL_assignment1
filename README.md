@@ -104,8 +104,6 @@ See the assignment page for input and output examples.
 ## Recommendations
 
 1. Implement the Rule of Five as needed.
-2. Re-download and re-test your submission on the department's computers after submission.
-3. Avoid modifying the signature of provided functions.
-4. Ensure your program compiles and runs without errors on the lab UNIX machine.
+2. Ensure your program compiles and runs without errors.
 
 Good luck! 🏋️‍♂️
